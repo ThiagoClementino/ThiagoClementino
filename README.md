@@ -21,7 +21,7 @@
 <h1 align="center">hey there 👋</h1>
 
 ###
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eyahnnn5z7hm6vzx75ugxu6e64&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
